@@ -1,4 +1,4 @@
-# Weather data analysis
+# Weather data analysis 🌡️⛅❄️
 
 # ETL and ML Model for Weather Data Analysis
 
