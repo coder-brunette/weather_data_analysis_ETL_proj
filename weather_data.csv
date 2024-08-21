@@ -1,0 +1,54 @@
+City,Temperature,Feels Like,Weather,Humidity,Wind Speed,Visibility
+New York,24.77,25.31,clear sky,77,5.36,10000
+Los Angeles,29.21,30.77,clear sky,56,7.2,10000
+Chicago,28.02,29.71,clear sky,62,3.58,10000
+Dallas,37.88,42.71,few clouds,39,6.17,10000
+Miami,27.55,31.13,overcast clouds,81,3.6,10000
+Albuquerque,36.24,34.32,scattered clouds,19,4.63,10000
+Boston,20.11,20.34,haze,83,3.6,9656
+Charlotte,27.54,29.8,broken clouds,70,0.89,10000
+Denver,32.66,30.92,scattered clouds,24,1.34,10000
+Phoenix,43.17,43.71,scattered clouds,19,5.14,10000
+Buffalo,25.07,25.46,overcast clouds,70,4.63,10000
+San Jose,27.06,27.12,clear sky,44,8.23,10000
+Seattle,22.85,22.57,broken clouds,53,3.09,10000
+Ohio,27.38,29.22,clear sky,67,1.54,10000
+Delaware,25.27,25.84,clear sky,76,3.09,10000
+Montgomery,26.77,28.06,overcast clouds,64,3.09,10000
+Hartford,23.79,24.39,broken clouds,83,0.45,10000
+Sacramento,34.1,33.6,clear sky,31,2.68,10000
+Trenton,26.42,26.42,broken clouds,65,0.89,10000
+Atlanta,30.63,32.98,few clouds,55,3.6,10000
+Salem,24.7,25.65,overcast clouds,93,0.72,10000
+Annapolis,27.28,29.05,clear sky,67,5.66,10000
+Des Moines,28.46,30.15,few clouds,60,7.72,10000
+Indianapolis,27.83,30.1,scattered clouds,68,4.12,10000
+Baton Rouge,33.29,39.53,overcast clouds,58,3.11,10000
+Salt Lake City,33.97,31.63,clear sky,16,7.72,10000
+Richmond,26.88,28.21,broken clouds,64,2.57,10000
+Montpelier,22.24,22.45,clear sky,74,1.53,10000
+Providence,21.23,21.55,few clouds,82,2.37,10000
+Harrisburg,27.36,28.46,clear sky,59,2.57,10000
+Columbia,28.43,31.68,broken clouds,71,2.57,10000
+Richmond,26.88,28.21,broken clouds,64,2.57,10000
+Olympia,24.78,24.49,clear sky,45,2.06,10000
+Jackson,31.18,30.02,clear sky,31,5.14,10000
+Saint Paul,23.76,24.25,broken clouds,79,3.6,10000
+Lansing,25.66,26.34,clear sky,79,4.12,10000
+Cheyenne,28.54,27.61,clear sky,32,2.57,10000
+Madison,30.28,35.73,broken clouds,70,0.89,10000
+Charleston,27.18,28.98,clear sky,68,4.63,10000
+Montpelier,22.24,22.45,clear sky,74,1.53,10000
+Pierre,28.28,28.58,clear sky,48,4.63,10000
+Springfield,32.15,37.74,clear sky,61,1.2,10000
+Honolulu,30.87,34.1,scattered clouds,58,8.23,10000
+Topeka,31.74,34.36,clear sky,52,3.6,10000
+Frankfort,8.5,7.57,clear sky,17,1.86,10000
+Augsburg,20.65,21.07,overcast clouds,88,5.14,10000
+Nashville,31.59,36.42,broken clouds,61,2.55,10000
+Oklahoma City,35.87,42.81,clear sky,50,1.34,10000
+Concord,29.16,28.59,clear sky,38,5.66,10000
+Lincoln,31.91,33.52,clear sky,47,4.12,10000
+Helena,27.52,26.68,scattered clouds,28,2.06,10000
+Juneau,19.5,20.12,broken clouds,100,4.63,10000
+Little Rock,34.01,38.76,scattered clouds,51,4.63,10000
